@@ -1,0 +1,7 @@
+C:\Users\Alperen Civelek\Documents\C# Projects\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\Alperen Civelek\Documents\C# Projects\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\Alperen Civelek\Documents\C# Projects\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\Alperen Civelek\Documents\C# Projects\Proje1\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
+C:\Users\Alperen Civelek\Documents\C# Projects\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Civelek\Documents\C# Projects\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\Alperen Civelek\Documents\C# Projects\Proje1\Proje1\obj\Debug\Proje1.pdb
